@@ -3,7 +3,7 @@ premiere commande pour cloner ;  $ git clone "adresse du repositorie"
 première commande pour add : $ git add .
 deuxième commande pour commit : $ git commmit -m "votre commit"
 troisieme commande pour push : $ git push --set-upstream origin main
-la commande pour pull : $ git pull [remote] [branch]
-la commande pour créer une nouvelle branche : $ git branch ma-nouvelle-branch
-la commande pour switch de branche : $ git checkout nom-de-la-branche 
+La commande pour pull : $ git pull [remote] [branch]
+La commande pour créer une nouvelle branche : $ git branch ma-nouvelle-branch
+La commande pour switch de branche : $ git checkout nom-de-la-branche 
 
