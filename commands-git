@@ -1,6 +1,6 @@
 premiere commande pour cloner ;  $ git clone "adresse du repositorie"
 
-premiere commande pour add : $ git add .
+première commande pour add : $ git add .
 deuxime commande pour commit : $ git commmit -m "votre commit"
 troisieme commande pour push : $ git push --set-upstream origin main
 la commande pour pull : $ git pull [remote] [branch]
