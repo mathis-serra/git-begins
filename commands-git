@@ -5,5 +5,5 @@ deuxième commande pour commit : $ git commmit -m "votre commit"
 troisieme commande pour push : $ git push --set-upstream origin main
 la commande pour pull : $ git pull [remote] [branch]
 la commande pour créer une nouvelle branche : $ git branch ma-nouvelle-branch
-la commande pour switch de branche : $ git checkout le nom de la branche 
+la commande pour switch de branche : $ git checkout nom-de-la-branche 
 
